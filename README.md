@@ -1,4 +1,4 @@
-# Recettopia---Backend
+# RecettopiaAPI
 
 This application has a frontend part : please check this link : https://github.com/nolanzerrkam-cyber/Recettopia-Frontend
 
