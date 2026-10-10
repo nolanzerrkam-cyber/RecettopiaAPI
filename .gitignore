@@ -1,0 +1,17 @@
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Maven
+target/
+
+# Oracle credentials: NEVER commit the real file
+persistence.xml
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
