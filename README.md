@@ -6,4 +6,4 @@ This application has a frontend part : please check this link : https://github.c
 
 # The developers who worked on this project :
 
-Nora Lfarh, Arnaud Jordan , Nolan Mertens
+Nora Lfarh, Arnaud Jordan , Nolan Mertens, Doran Bottemanne
