@@ -13,7 +13,7 @@ out/
 .kotlin
 
 ### Oracle credentials: NEVER commit the real file ###
-persistence.xml
+db.properties
 
 ### Eclipse ###
 .apt_generated
